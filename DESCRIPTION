@@ -11,3 +11,5 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/Hayata-Inoue/ABC
+BugReports: https://github.com/Hayata-Inoue/ABC/issues
